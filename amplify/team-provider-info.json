@@ -1,0 +1,14 @@
+{
+    "prod": {
+        "awscloudformation": {
+            "AuthRoleName": "mps-webapp-20181213001142-authRole",
+            "UnauthRoleArn": "arn:aws:iam::225820374381:role/mps-webapp-20181213001142-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::225820374381:role/mps-webapp-20181213001142-authRole",
+            "Region": "us-east-1",
+            "DeploymentBucketName": "mps-webapp-20181213001142-deployment",
+            "UnauthRoleName": "mps-webapp-20181213001142-unauthRole",
+            "StackName": "mps-webapp-20181213001142",
+            "StackId": "arn:aws:cloudformation:us-east-1:225820374381:stack/mps-webapp-20181213001142/f644ba60-fe9d-11e8-87e3-0e85eb8bafe8"
+        }
+    }
+}
